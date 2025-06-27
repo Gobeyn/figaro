@@ -1,7 +1,7 @@
 [project]
 name = "figaro"
 version = "0.1.0"
-description = "Add your description here"
+description = "Figure control manager for handling figure generating Python scripts"
 readme = "README.md"
 authors = [
     { name = "Aaron Gobeyn", email = "aaron.gobeyn@gmail.com" }
