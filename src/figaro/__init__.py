@@ -1,0 +1,1 @@
+from .figarodec import figarotag
